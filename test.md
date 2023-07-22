@@ -2,4 +2,6 @@
 
 **здесь какой-то код**
 
-some python 
+some python function
+
+new python code
