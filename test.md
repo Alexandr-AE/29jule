@@ -6,4 +6,4 @@ some python function
 
 new python code
 
-какой-нибудь текст
+какой-нибудь другой текст здесь
