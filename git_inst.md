@@ -12,5 +12,9 @@
    * **branch _name_** - создание ветки name
    * **branch _-d name_** - удаление ветки *name*
 
-8. **status** - информация о текущем состоянии git
-9. **reflog** - история изменений со всеми перемещениями
+2. **status** - информация о текущем состоянии git
+3. **reflog** - история изменений со всеми перемещениями
+10. **merge** - слияние веток
+
+Справочник по Markdown:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
