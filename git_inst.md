@@ -13,6 +13,7 @@
 
 2. **status** - информация о текущем состоянии git
 3. **reflog** - история изменений со всеми перемещениями
+10. **merge** - слияние веток
 
 Справочник по Markdown:
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
