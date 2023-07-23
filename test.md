@@ -5,3 +5,5 @@
 some python function
 
 new python code
+
+какой-нибудь текст
