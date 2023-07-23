@@ -7,3 +7,4 @@ some python function
 new python code
 
 текст из мастера
+какой-нибудь другой текст здесь из ветки 2
