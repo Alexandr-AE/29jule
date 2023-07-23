@@ -13,3 +13,6 @@
 
 2. **status** - информация о текущем состоянии git
 3. **reflog** - история изменений со всеми перемещениями
+
+Справочник по Markdown:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
